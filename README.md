@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hey, I'm Hemanth M J ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+%7C+Cloud+Engineer+%7C+AIML+Student;Always+learning+new+things+🔥;Final+Year+Engineer+from+Bengaluru&center=true&size=22&color=00F5FF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Developer+%7C+Cloud+Engineer+%7C+AIML+Student;Always+learning+new+things+🔥; Final+Year+Engineer+from+Bengaluru&center=true&size=22&color=00F5FF">
 </p>
 <img align="right" alt="CODING" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
