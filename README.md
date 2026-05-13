@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-tp&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-tp" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas_t_p?logo=twitter&style=for-the-badge" alt="shreyas_t_p" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas_t_p?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 Learning **AWS + Cloud Engineering**
   
