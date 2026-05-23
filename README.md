@@ -5,7 +5,7 @@
 </p>
 <img align="right" alt="CODING" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-tp&label=Profile%20views&color=0e75b6&style=flat" alt="shreyas-tp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyas-tp&label=Profile%20views&color=0e75b6&style=flat" alt="Hemanth M J" /> </p>
 
 <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/shreyas_t_p?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
